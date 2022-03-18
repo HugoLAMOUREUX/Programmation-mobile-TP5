@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TP5</string>
+    <string name="button">Button</string>
+    <string name="hintbouton">décompte (en secondes)</string>
+    <string name="channel_name">channelnotif</string>
+    <string name="channel_description">channeldescription</string>
+    <string name="testasynchrone">on teste l\'execution asynchrone de la notification</string>
+</resources>
